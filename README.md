@@ -1,6 +1,6 @@
 # Jae Kim
 Hi there 👋
-______________
+===========
 ______________
 <!--
 **sekero1/sekero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
